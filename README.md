@@ -69,7 +69,7 @@
 
   <div class="form-box">
     <div class="judul">
-      Hallo kak
+      Hallo Kak
 Kami siap membantu mengabadikan momen spesial wisuda kakak
 mulai dari informasi paket hingga proses pemesanan.Silakan sampaikan kebutuhan atau pertanyaan kakak ya.
     </div>
